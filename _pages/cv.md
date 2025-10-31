@@ -24,7 +24,7 @@ Publications
   {% endfor %}
 </ul>
 
-  <h3>Co-authored Papers</h3>
+  <h3>Co-authored</h3>
 <ul>
   {% assign co_pubs = site.publications | where: "role", "co" %}
   {% for post in co_pubs reversed %}
