@@ -16,6 +16,7 @@ Education
   
 Publications
 ======
+<h3>First / Corresponding Author</h3>
 <ul>
   {% assign first_pubs = site.publications | where: "role", "first" %}
   {% for post in first_pubs reversed %}
