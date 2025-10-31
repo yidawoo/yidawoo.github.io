@@ -16,9 +16,12 @@ Education
   
 Publications
 ======
-  <ul>{% for post in site.publications | where: "role", "first"  %}
+<ul>
+  {% assign first_pubs = site.publications | where: "role", "first" %}
+  {% for post in first_pubs reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
 
   <h3>Co-authored Papers</h3>
 <ul>
