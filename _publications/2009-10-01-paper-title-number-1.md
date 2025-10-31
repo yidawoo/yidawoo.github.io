@@ -3,7 +3,7 @@ title: "SAR image target recognition based on combinatorial optimization convolu
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2022
+date: 2022-08-12
 venue: 'Systems Engineering and Electronics'
 paperurl: 'https://www.sys-ele.com/CN/10.12305/j.issn.1001-506X.2022.08.12#1'
 bibtexurl: 'https://www.sys-ele.com/CN/article/getTxtFile.do?fileType=BibTeX&id=8777'
