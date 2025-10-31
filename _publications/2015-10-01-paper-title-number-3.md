@@ -2,7 +2,7 @@
 title: "Radar target recognition based on improved Dijkstra algorithm with time-frequency domain filtering"
 collection: publications
 category: manuscripts
-role：co
+role: co
 permalink: /publication/2022-10-12
 date: 2022-10-12
 venue: 'Systems Engineering and Electronics'
