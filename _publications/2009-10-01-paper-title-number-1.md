@@ -8,6 +8,6 @@ date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'https://www.sys-ele.com/CN/10.12305/j.issn.1001-506X.2022.08.12#1'
 bibtexurl: 'https://www.sys-ele.com/CN/article/getTxtFile.do?fileType=BibTeX&id=8777'
-citation: 'Caiyun Wang, Yida Wu, Jianing Wang, Lu Ma, Huanyue Zhao. (2022). &quot;SAR image target recognition based on combinatorial optimization convolutional neural network.&quot; <i>Systems Engineering and Electronics</i>. 44(08): 2483-2487.'
+citation: 'Caiyun Wang, Yida Wu, Jianing Wang, Lu Ma, Huanyue Zhao. &quot;SAR image target recognition based on combinatorial optimization convolutional neural network.&quot; <i>Systems Engineering and Electronics</i>. 2022, 44(08): 2483-2487.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
