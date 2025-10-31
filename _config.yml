@@ -24,7 +24,6 @@ repository               : "yidawoo/yidawoo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  round_avatar     : false
   name             : "Yida Wu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Multi-modal Learning, NUAA"
