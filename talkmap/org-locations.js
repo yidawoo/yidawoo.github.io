@@ -15,7 +15,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; Singapore",
+    "A Hierarchical Attention Model for Local andGlobal Feature Integration in RCS Classification<br />UC San Francisco, Department of Testing; Singapore",
     1.357107,
     103.8194992
   ]
