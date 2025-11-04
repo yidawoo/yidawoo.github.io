@@ -10,7 +10,7 @@ var addressPoints = [
     -0.1440551
   ],
   [
-    "A Hierarchical Attention Model for Local andGlobal Feature Integration in RCS Classification<br />UC San Francisco, Department of Testing; Singapore",
+    "A Hierarchical Attention Model for Local andGlobal Feature Integration in RCS Classification<br />Singapore, Shangri-La; Singapore",
     1.357107,
     103.8194992
   ]
