@@ -8,7 +8,8 @@ date: 2025-10-11
 venue: '17th Asia-Pacific Signal and Information Processing Association Annual Summit & Conference (APSIPA ASC 2025)'
 citation: 'Yida Wu, Caiyun Wang, Jianing Wang, Xiaofei Li, Ying Nan. (2025). &quot;A Hierarchical Attention Model for Local and Global Feature Integration in RCS Classification.&quot; <i>17th Asia-Pacific Signal and Information Processing Association Annual Summit & Conference (APSIPA ASC 2025)</i>.'
 ---
-
+Abstract
+===
 Radar Cross Section (RCS) target recognition plays
 a vital role in radar automatic target recognition (RATR)
 systems. As a critical electromagnetic signature, RCS encodes
