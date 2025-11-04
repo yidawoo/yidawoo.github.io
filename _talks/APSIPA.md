@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "A Hierarchical Attention Model for Local andGlobal Feature Integration in RCS Classification"
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/APSIPA
