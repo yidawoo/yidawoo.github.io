@@ -3,7 +3,7 @@ title: "A Hierarchical Attention Model for Local andGlobal Feature Integration i
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/APSIPA
-venue: "UC San Francisco, Department of Testing"
+venue: "Singapore, Shangri-La"
 date: 2025-10-23
 location: "Singapore"
 ---
