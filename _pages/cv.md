@@ -16,7 +16,6 @@ Education
   
 Publications
 ======
-<h3>First / Corresponding Author</h3>
 <ul>
   {% assign first_pubs = site.publications | where: "role", "first" %}
   {% for post in first_pubs reversed %}
@@ -24,14 +23,7 @@ Publications
   {% endfor %}
 </ul>
 
-  <h3>Co-authored</h3>
-<ul>
-  {% assign co_pubs = site.publications | where: "role", "co" %}
-  {% for post in co_pubs reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
