@@ -1,0 +1,53 @@
+/* 首页卡片 */
+#recent-posts .recent-post-items .recent-post-item {
+  background: rgba(255,255,255,0.75);
+  backdrop-filter: blur(10px);
+}
+
+#aside-content .card-widget{
+    background: rgba(255,255,255,.75);
+    backdrop-filter: blur(10px);
+}
+
+/*手机端毛玻璃优化*/
+#sidebar #sidebar-menus.open {
+    background: rgba(255,255,255,0.5);
+    backdrop-filter: blur(10px);
+}
+
+#sidebar #menu-mask {
+    background: rgba(255,255,255,0);
+}
+
+/* 文章页 */
+#post{
+    background: rgba(255,255,255,.85);
+    backdrop-filter: blur(10px);
+}
+
+/* 导航栏 */
+#page-header #nav {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+/* 导航栏文字 */
+#nav .site-name,
+#nav .menus_item > a,
+#nav a {
+    color: #fff !important;
+}
+
+/*!* 隐藏导航栏图标 *!*/
+/*#nav .menus_items .menus_item i,*/
+/*#nav .site-page i {*/
+/*    display: none !important;*/
+/*}*/
+
+/*!* 导航栏图标颜色 *!*/
+/*#nav .site-page i, #nav .menus_item i {*/
+/*    color: #ffffff !important;*/
+/*}*/
+#nav .menus_items .menus_item > span {
+    color: #ffffff !important;
+}
